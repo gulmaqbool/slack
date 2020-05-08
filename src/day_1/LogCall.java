@@ -7,6 +7,11 @@ public class LogCall {
         System.out.println("Then I deleted it");
         System.out.println("Now I'm writing in it again");
         System.out.println("Thank you");
+        
+        //Thank you Zareen
+        //Appreciate your effort
+        //Have a wonderful weekend
+        //See you tomorrow
 
     }
 }
